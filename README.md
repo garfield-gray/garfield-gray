@@ -1,13 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;oI'm+Abbas+Mohamadiyan...;oStudent+and+Cpp+Developer;oNice+to+meet+you!&center=true&size=30&color=fe428e">
+    <img src="https://readme-typing-svg.herokuapp.com/lines=Hey,+There!+👋;I'm+Abbas+Mohamadiyan...;A+Student+and+Cpp+Developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
   </a>
 </h1>
 
 
 
-
-- 👋 Hi, I’m @garfield-gray
 - 👀 I’m interested in everything =)
 - 🌱 I’m currently learning optimization & a little bit of machine learning
 - 💞️ I’m looking to collaborate on whatever suits my skills
