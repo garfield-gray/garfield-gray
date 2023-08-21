@@ -11,6 +11,21 @@
 - 💞️ I’m looking to collaborate on whatever suits my skills
 - 📫 How to reach me garfield.gray.999@gmail.com
 
+## Skills
+
+### Programming Languages and frameworks
+
+[![alt](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![alt](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
+[![alt](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)
+[![alt](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
+### Tools and IDE's
+
+[![alt](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![alt](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![alt](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
+
+
 <!---
 garfield-gray/garfield-gray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
