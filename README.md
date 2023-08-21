@@ -6,7 +6,7 @@
 
 
 
-- 👀 I’m interested in everything =)
+- 👀 I’m interested in Linear Algebra, Data Science, and Programming =)
 - 🌱 I’m currently learning optimization & a little bit of machine learning
 - 💞️ I’m looking to collaborate on whatever suits my skills
 - 📫 How to reach me garfield.gray.999@gmail.com
