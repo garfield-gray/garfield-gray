@@ -19,6 +19,8 @@
 [![alt](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
 [![alt](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)
 [![alt](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
+[![alt](https://skillicons.dev/icons?i=julia)](https://julialang.org/)
+[![alt](https://skillicons.dev/icons?i=qt)](https://doc.qt.io/qt-6/qtqml-index.html)
 ### Tools and IDE's
 
 [![alt](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
