@@ -21,6 +21,10 @@
 [![alt](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![alt](https://skillicons.dev/icons?i=julia)](https://julialang.org/)
 [![alt](https://skillicons.dev/icons?i=qt)](https://doc.qt.io/qt-6/qtqml-index.html)
+[![alt](https://skillicons.dev/icons?i=linux)](https://ubuntu.com/)
+[![alt](https://skillicons.dev/icons?i=matlab)](http://www.mathworks.com/)
+
+
 ### Tools and IDE's
 
 [![alt](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
